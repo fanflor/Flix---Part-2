@@ -7,7 +7,6 @@ target 'flixer' do
 
   # Pods for flixer
 pod 'Alamofire'
-
 pod 'AlamofireImage'
 
   target 'flixerTests' do

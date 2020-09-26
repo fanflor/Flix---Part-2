@@ -15,8 +15,11 @@ This app is a simple view of current movies along with detailed description of w
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 
-//<img src="http://g.recordit.co/5KHpVwWs8w.gif" width=250><br>
+<img src="http://g.recordit.co/5KHpVwWs8w.gif" width=250><br>
 <img src="http://g.recordit.co/2tho8WrYVM.gif" width=250><br>
+#In case image doesn't show for moblie device the link is ->http://g.recordit.co/2tho8WrYVM.gif
+
 
 ### Notes
 In this project majartiy of my problems accured with AlamofireImages,since I didn't realized it also had requirements in order to work with Xcode 10.2. This application can be used on a moble apple device.
+

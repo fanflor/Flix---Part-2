@@ -16,7 +16,6 @@ This app is a simple view of current movies along with detailed description of w
 
 
 <img src="http://g.recordit.co/5KHpVwWs8w.gif" width=250><br>
-<img src="http://g.recordit.co/2tho8WrYVM.gif" width=250><br>
 #In case image doesn't show for moblie device the link is ->http://g.recordit.co/2tho8WrYVM.gif
 
 
